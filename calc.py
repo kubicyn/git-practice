@@ -1,2 +1,3 @@
-def add(a, b): return a + b # addition
+def add(a, b): return int(a) + int(b) # addition
 def sub(a, b): return a - b
+def mul(a, b): return a * b
